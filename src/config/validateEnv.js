@@ -1,6 +1,6 @@
 export function validateEnv(){
     const required = [
-        "MONGODB_URI",
+        "MONGODB_URL",
         "UPSTASH_URL",
         "JWT_SECRET",
         "PORT"
